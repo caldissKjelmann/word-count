@@ -13,7 +13,9 @@ You just do it with these 3 steps!
 What now?
 ---------
 Search for *fat cats* at `Google <http://www.google.com>`_.
-You can find images like: .. image:: cat1.png .
+You can find images like: 
+.. image:: cat1.png
+
 
 
 
